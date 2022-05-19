@@ -14,6 +14,6 @@ References <br />
     https://www.statology.org/pandas-drop-rows-with-value/ <br />
     https://stackoverflow.com/questions/20444087/right-way-to-reverse-a-pandas-dataframe <br />
     https://linuxhint.com/create-a-new-dataframe-from-an-existing-dataframe-in-pandas/ <br />
-And how to better space my README:
+And how to better space my README: <br />
     https://stackoverflow.com/questions/40023013/tab-space-in-markdown <br />
     https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md <br />
